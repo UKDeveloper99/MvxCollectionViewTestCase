@@ -20,7 +20,7 @@ using UIKit;
 // COPY FROM GITHUB - FOR DEBUGGING PURPOSES
 namespace SharedPcl.MvvmCross
 {
-	public class MvxCollectionViewSourceCopy : MvxBaseCollectionViewSource
+	public class MvxCollectionViewSourceCopy : MvxBaseCollectionViewSourceCopy
 	{
 		private IEnumerable _itemsSource;
 		private IDisposable _subscription;
