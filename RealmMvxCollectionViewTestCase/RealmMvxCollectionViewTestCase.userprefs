@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CF524E76-0938-43A2-B4F4-7F9CF83B89DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.RealmMvxCollectionViewTestCase PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.837C4975-3B00-4EB6-ADC8-B5F86D3A075A" HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.SharedPcl HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharedPcl/ViewModels/FirstViewModel.cs">
+    <Files>
+      <File FileName="SharedPcl/ViewModels/FirstViewModel.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
