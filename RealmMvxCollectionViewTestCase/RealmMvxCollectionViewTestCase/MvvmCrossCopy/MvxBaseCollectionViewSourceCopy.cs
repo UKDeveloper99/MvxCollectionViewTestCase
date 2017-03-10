@@ -15,7 +15,7 @@ using MvvmCross.Platform.Core;
 using MvvmCross.Platform.Exceptions;
 
 // COPY FROM GITHUB - FOR DEBUGGING PURPOSES
-namespace SharedPcl.MvvmCross
+namespace RealmMvxCollectionViewTestCase.MvvmCrossCopy
 {
 	using UIKit;
 

@@ -18,7 +18,7 @@ using UIKit;
 // Project Lead - Stuart Lodge, @slodge, me@slodge.com
 
 // COPY FROM GITHUB - FOR DEBUGGING PURPOSES
-namespace SharedPcl.MvvmCross
+namespace RealmMvxCollectionViewTestCase.MvvmCrossCopy
 {
 	public class MvxCollectionViewSourceCopy : MvxBaseCollectionViewSourceCopy
 	{

@@ -1,18 +1,20 @@
 ﻿<Properties StartupConfiguration="{CF524E76-0938-43A2-B4F4-7F9CF83B89DD}|Default">
-  <MonoDevelop.Ide.ItemProperties.RealmMvxCollectionViewTestCase PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.837C4975-3B00-4EB6-ADC8-B5F86D3A075A" HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.RealmMvxCollectionViewTestCase PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C71C69F3-37CC-40DD-871C-F6685C534558" />
   <MonoDevelop.Ide.ItemProperties.SharedPcl HideGettingStarted="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RealmMvxCollectionViewTestCase/MvvmCross/MvxCollectionViewSourceCopy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealmMvxCollectionViewTestCase/MvvmCross/MvxBaseCollectionViewSourceCopy.cs">
     <Files>
       <File FileName="SharedPcl/ViewModels/FirstViewModel.cs" Line="27" Column="1" />
-      <File FileName="RealmMvxCollectionViewTestCase/MvvmCross/MvxCollectionViewSourceCopy.cs" Line="70" Column="31" />
-      <File FileName="RealmMvxCollectionViewTestCase/MvvmCross/MvxBaseCollectionViewSourceCopy.cs" Line="1" Column="1" />
-      <File FileName="RealmMvxCollectionViewTestCase/Views/FirstView.cs" Line="1" Column="1" />
+      <File FileName="RealmMvxCollectionViewTestCase/MvvmCross/MvxCollectionViewSourceCopy.cs" Line="18" Column="55" />
+      <File FileName="RealmMvxCollectionViewTestCase/MvvmCross/MvxBaseCollectionViewSourceCopy.cs" Line="18" Column="42" />
+      <File FileName="RealmMvxCollectionViewTestCase/Views/FirstView.cs" Line="8" Column="26" />
+      <File FileName="RealmMvxCollectionViewTestCase/LinkerPleaseInclude.cs" Line="107" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/marksilver/Documents/Workspace/GithubMvxTestCase/RealmMvxCollectionViewTestCase/RealmMvxCollectionViewTestCase/MvvmCross/MvxBaseCollectionViewSourceCopy.cs" relfile="RealmMvxCollectionViewTestCase/MvvmCross/MvxBaseCollectionViewSourceCopy.cs" line="103" column="1" />
+      <Breakpoint file="/Users/marksilver/Documents/Workspace/GithubMvxTestCase/RealmMvxCollectionViewTestCase/RealmMvxCollectionViewTestCase/MvvmCross/MvxCollectionViewSourceCopy.cs" relfile="RealmMvxCollectionViewTestCase/MvvmCross/MvxCollectionViewSourceCopy.cs" line="98" column="1" />
+      <Breakpoint file="/Users/marksilver/Documents/Workspace/GithubMvxTestCase/RealmMvxCollectionViewTestCase/RealmMvxCollectionViewTestCase/MvvmCross/MvxCollectionViewSourceCopy.cs" relfile="RealmMvxCollectionViewTestCase/MvvmCross/MvxCollectionViewSourceCopy.cs" line="95" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

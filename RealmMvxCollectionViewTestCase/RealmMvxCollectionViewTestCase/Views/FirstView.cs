@@ -6,9 +6,9 @@ using Foundation;
 using MvvmCross.Binding.BindingContext;
 using MvvmCross.iOS.Views;
 using MvvmCross.Platform;
-using SharedPcl.MvvmCross;
 using SharedPcl.ViewModels;
 using UIKit;
+using RealmMvxCollectionViewTestCase.MvvmCrossCopy;
 
 namespace RealmMvxCollectionViewTestCase
 {
